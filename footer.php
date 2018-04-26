@@ -31,8 +31,7 @@
 <script src="dist/js/adminlte.min.js"></script>
 <!-- SlimScroll -->
 <script src="asset/jquery-slimscroll/jquery.slimscroll.min.js"></script>
-
-<script>
+<script type="text/javascript">
   $(function () {
     //Initialize Select2 Elements
     $('.select2').select2()
@@ -98,6 +97,10 @@
       showInputs: false
     })
   })
+  
+
+ 
+  
 </script>
 </body>
 </html>
